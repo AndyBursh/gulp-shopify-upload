@@ -1,5 +1,5 @@
 {
-  "name": "gulp-shopify-upload",
+  "name": "@strawberry/gulp-shopify-upload",
   "version": "1.0.10",
   "description": "A tool to watch and upload files to Shopify for use in theme editing",
   "keywords": [
@@ -22,6 +22,11 @@
       "name": "Mike Northorp",
       "email": "mike.northorp@gmail.com",
       "url": "https://github.com/mikenorthorp"
+    },
+    {
+      "name": "Strawberry",
+      "email": "support@strawberry.co.uk",
+      "url": "http://www.strawberry.co.uk/"
     }
   ],
   "main": "index.js",
@@ -54,6 +59,10 @@
     {
       "name": "mikenorthorp",
       "email": "mike.northorp@gmail.com"
+    },
+    {
+      "name": "Strawberry",
+      "email": "support@strawberry.co.uk"
     }
   ],
   "scripts": {}
