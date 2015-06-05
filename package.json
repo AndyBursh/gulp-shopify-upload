@@ -1,5 +1,5 @@
 {
-  "name": "@strawberry/gulp-shopify-upload",
+  "name": "@strawberryweb/gulp-shopify-upload",
   "version": "1.0.10",
   "description": "A tool to watch and upload files to Shopify for use in theme editing",
   "keywords": [
@@ -13,21 +13,10 @@
   "bugs": {
     "url": "https://github.com/mikenorthorp/gulp-shopify-upload/issues"
   },
-  "author": {
-    "name": "Able Sense Media",
-    "url": "http://ablesense.com"
-  },
+  "author": "Able Sense Media (http://ablesense.com)",
   "contributors": [
-    {
-      "name": "Mike Northorp",
-      "email": "mike.northorp@gmail.com",
-      "url": "https://github.com/mikenorthorp"
-    },
-    {
-      "name": "Strawberry",
-      "email": "support@strawberry.co.uk",
-      "url": "http://www.strawberry.co.uk/"
-    }
+    "Mike Northorp <mike.northorp@gmail.com> (https://github.com/mikenorthorp)",
+    "Strawberry <support@strawberry.co.uk> (http://www.strawberry.co.uk/)"
   ],
   "main": "index.js",
   "repository": {
@@ -56,14 +45,9 @@
     }
   ],
   "maintainers": [
-    {
-      "name": "mikenorthorp",
-      "email": "mike.northorp@gmail.com"
-    },
-    {
-      "name": "Strawberry",
-      "email": "support@strawberry.co.uk"
-    }
+    "mikenorthorp <mike.northorp@gmail.com>",
+    "Strawberry <support@strawberry.co.uk>"
   ],
-  "scripts": {}
+  "scripts": {},
+  "license": "ISC"
 }
